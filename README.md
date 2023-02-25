@@ -4,9 +4,9 @@
     
 ## Description
 
-In this project you will be able to find a employee database. This will allow you to manage and keep track of different employees, roles, and departments in your company. It will alsos provide important information for these different topics. 
+In this project you will be able to find a e-commerce website that uses the latest technologies so that your company can compete with other e-commerce companies.
 
-[Walkthrough Video](https://drive.google.com/file/d/17_2sAfY-p27ddxBgFqOBGjw6cDomOLez/view)
+[Walkthrough Video](https://drive.google.com/file/d/1aAxCbzzldzMjpiJ8zH9Z9XFyl4XZDDUK/view)
 
 
 ## Table of Contents
@@ -21,12 +21,11 @@ In this project you will be able to find a employee database. This will allow yo
 
 ## Installation
 
-To install this project download the repository onto your local drive. Then make sure you have node.js installed on your computer. Once the repository is cloned, open it, and in the command line type "npm start" to start the gnerating process". Make sure you have the password for your sql in the server and prompt javascripts.
+To install this project download the repository onto your local drive. Then make sure you have node.js installed on your computer. Once the repository is cloned, open it, and in the command line run your mysql, then run the seeds, then type "npm start" to start the gnerating process". Make sure you have the password for your sql in the server and prompt javascripts.
 
 ## Usage 
 
-This project will be used to help small buisnesses manage their employees, the roles in their company, and their departments.
-
+This project will be used to help company can compete with other e-commerce companies.
 ## License
 
 This application is covered by the following license: MIT License.
